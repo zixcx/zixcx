@@ -27,7 +27,7 @@
 	<img  
 	src="https://img.shields.io/badge/Python-0175C2?style=for-the-badge&logo=python&logoColor=white"/>
 	<img  
-	src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+	src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 	<img  
 	src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img  
