@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&fontColor=ffffff&color=0:ffc430,25:ffdc7b,50:ffc430,75:ffdc7b,100:ffc430&text=Welcome%20to%20zixcx's%20GitHub%20🥵&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=200)
 
 <hr/>
-<center>  
-	<h3>💻 Tech Stack 💻</h3>  
-</center>  
+<center><h3>💻 Tech Stack 💻</h3></center>  
 <h4 style="margin: 0; margin-top: 5px; margin-bottom: 5px">FrontEnd</h4>  
 <div>  
 	<img  
