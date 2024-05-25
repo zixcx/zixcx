@@ -73,13 +73,3 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzixcx&count_bg=%23C83D8B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 header
-      
-BackEnd
-  
-⚒️ Tools ⚒️
-     
-📞 Contact 📞
-  
-Hits
-
-Markdown 3191 bytes 98 words 74 lines Ln 30, Col 101HTML 48 characters 12 words 5 paragraphs
