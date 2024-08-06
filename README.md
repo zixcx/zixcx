@@ -14,6 +14,8 @@
 	<img  
 	src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 	<img  
+	src="https://img.shields.io/badge/Tailwind-3776AB?style=for-the-badge&logo=dart&logoColor=white"/>
+	<img  
 	src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>  
 	<img  
 	src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -29,6 +31,10 @@
 	src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img  
 	src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+	<img  
+	src="https://img.shields.io/badge/GraphQL-3776AB?style=for-the-badge&logo=dart&logoColor=white"/>
+	<img  
+	src="https://img.shields.io/badge/Supabase-3776AB?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>  
   
 <br><br>
