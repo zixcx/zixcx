@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&fontColor=ffffff&color=0:ffc430,25:ffdc7b,50:ffc430,75:ffdc7b,100:ffc430&text=Welcome%20to%20zixcx's%20GitHub%20😎&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=200)
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&fontColor=ffffff&color=0:ffc430,25:ffdc7b,50:ffc430,75:ffdc7b,100:ffc430&text=Welcome%20to%20zixcx's%20GitHub%20😎&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=200"/>
+<div/>
 <br><br>
 <h2 align="center">💻 Tech Stack 💻</h2>
 <h4 align="center">FrontEnd</h4>  
