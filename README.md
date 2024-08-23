@@ -1,21 +1,10 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&fontColor=ffffff&color=0:ffc430,25:ffdc7b,50:ffc430,75:ffdc7b,100:ffc430&text=Welcome%20to%20zixcx's%20GitHub%20😎&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=200"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=0:ffc430,25:ffdc7b,50:ffc430,75:ffdc7b,100:ffc430&text=zixcx&animation=twinkling&fontSize=50&fontAlignY=35&fontAlign=50&height=200"/>
 <div/>
 <br><br>
 <h2 align="center">💻 Tech Stack 💻</h2>
 <h4 align="center">FrontEnd</h4>  
 <div align="center">  
-	<img  
-	src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-	<img  
-	src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-	<img  
-	src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-	<img  
-	src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-	<br/>
-	<img  
-	src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 	<img  
@@ -50,22 +39,6 @@
 	src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </div>  
   
-<br><br>
-<h2 align="center">⚒️ Tools ⚒️</h2>    
-<div align="center">  
-	<img  
-	src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>  
-	<img  
-	src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-	<img  
-	src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"/>  
-	<img  
-	src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  
-	<img  
-	src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>  
-	<img  
-	src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
-</div> 
   
 <br><br>
 <h2 align="center">📞 Contact 📞</h2>  
