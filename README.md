@@ -4,43 +4,28 @@
 <br><br>
 <h2 align="center">💻 Tech Stack 💻</h2>
 <h4 align="center">FrontEnd</h4>  
-<div align="center">  
-	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<div align="center">
 	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 	<img  
 	src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=dart&logoColor=white"/>
-	<br/>
-	<img  
-	src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white"/>
 	<img  
 	src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>  
 </div>  
   
 <h4 align="center">BackEnd</h4>  
 <div align="center">  
-	<img  
-	src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
-	<img  
-	src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-	<br/>
-	<img  
-	src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-	<img  
-	src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-	<br/>
-	<img  
-	src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-	<img  
-	src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
-	<img  
-	src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-	<br/>
-	<img  
-	src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-	<img  
-	src="https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
-</div>  
-  
+	<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+	<br/><br/>
+	<h5>NoSQL</h5>
+	<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+	<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
+	<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+	<br/><br/>
+	<h5>SQL</h5>
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
   
 <br><br>
 <h2 align="center">📞 Contact 📞</h2>  
@@ -67,3 +52,4 @@
 	<br/>
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzixcx&count_bg=%23C83D8B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </div>
+---
